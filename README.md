@@ -4,6 +4,12 @@ VID Converter + Smart Compression v1.0.0 is a Python desktop application for **c
 This repository contains the full source code, allowing you to customize **compression level, bitrate logic, UI layout, FFmpeg integration, and workflow** for personal, professional, or learning purposes.
 
 ------------------------------------------------------------
+🌟 SCREENSHOT
+------------------------------------------------------------
+
+<img alt="VID Converter Main Interface" src="https://github.com/rogers-cyber/VIDConverter/blob/main/VIDConverter.jpg" />
+
+------------------------------------------------------------
 🌟 FEATURES
 ------------------------------------------------------------
 
@@ -154,3 +160,4 @@ Website: https://matetools.gumroad.com
 Distributed as commercial source code.  
 You may use it for personal or commercial projects.  
 Redistribution, resale, or rebranding as a competing product is not allowed.
+
